@@ -21,16 +21,6 @@ public class NewYearsGift {
 	 */
 	private List<Sweet> sweeties;
 	
-//	{
-//		sweeties = new ArrayList<>();
-//		sweeties.add(new Lollipop("l3", 500, 0.5));
-//		sweeties.add(new Lollipop("l2", 700, 0.9));
-//		sweeties.add(new Lollipop("l1", 100, 0.1));
-//		sweeties.add(new Chocolate("c3", 800, 0.8));
-//		sweeties.add(new Chocolate("c1", 200, 0.4));
-//		sweeties.add(new Chocolate("c2", 300, 0.3));
-//	}
-	
 	/**
      * Empty constructor
      */
